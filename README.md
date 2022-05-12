@@ -1,0 +1,2 @@
+# readerApp
+React/redux
