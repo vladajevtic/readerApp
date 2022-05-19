@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    width: 100%;
+}
+.container .search{
+    width: 45%;
+}
+.container .addList{
+    width: 45%;
+}
